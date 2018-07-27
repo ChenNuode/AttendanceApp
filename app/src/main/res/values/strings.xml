@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AttendanceApp</string>
+    <string name="greeting_text">0</string>
+</resources>
