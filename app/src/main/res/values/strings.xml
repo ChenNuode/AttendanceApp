@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">AttendanceApp</string>
-    <string name="greeting_text">0</string>
+    <string name="greeting_text">Welcome to the Attendance App!</string>
+    <string name="random_heading">Here is a random number between 0 and %1d.</string>
+    <string name="latedisplaytitle">Attendance for\n%s</string>
+    <string name="latecomerstring">Late-Comers:\n%s</string>
+    <string name="contentstring">Names:Present</string>
+    <string-array name="class_names">
+        <item>Alphonsus</item>
+        <item>Lucas</item>
+        <item>Nuode</item>
+        <item>Kai Zhe</item>
+    </string-array>
 </resources>
