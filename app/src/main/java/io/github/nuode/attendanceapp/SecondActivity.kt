@@ -15,7 +15,7 @@ import java.util.*
 
 
 
-val namearray = arrayOf("Aphonsus","Lucas","Conrad","Donnie","Justinian","Isaac","Jaden","Jireh","Kylle","Alastor","Jing Hao","Tze Shaun", "Yuan Heng", "Choo Ray", "Daniel Mok", "Derrick","Rafael","Riaz","Guang Xiang","Jit Yoei","Yunrui","Dominic","Zach","Ryan","Nuode")
+val namearray = arrayOf("Alphonsus","Lucas", "Nuode", "Conrad","Isaac","Jaden","Jireh","Kylle","Alastor","Jing Hao","Ryan Lim", "Yuan Heng", "Choo Ray", "Daniel Mok", "Derrick","Rafael","Riaz","Guang Xiang","Jit Yoei","Yunrui","Dominic","Zach","Donny","Justinian","Tze Shaun")
 var count = 0
 var datalist = Array(namearray.size, {"Unknown"})
 
